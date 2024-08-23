@@ -139,7 +139,7 @@ docs/api
 events.out.tfevents*
 pretrained
 *_outputs/
-DiffusionTrack_*/
+consistencyTrack_*/
 datasets/
 *.pth.tar
 *.tar.gz
